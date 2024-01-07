@@ -1,0 +1,5 @@
+This project involves a comprehensive analysis of gene expression and survival patterns in the 
+TCGA-BRCA cohort for N = 498 Cases extracted from the National Cancer Institute GDC portal, focusing on 
+TP53, BRCA1, and BRCA2. Utilizing R packages like TCGAbiolinks, survival, DESeq2, and ggplot2, 
+extracting clinical and gene expression barcodes, performed survival analyses, and created visualizations, 
+shedding light on potential prognostic biomarkers in breast cancer.
